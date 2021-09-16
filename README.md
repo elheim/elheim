@@ -15,5 +15,7 @@
 <img align="left" alt="PostgreSQL" width="70px" src="https://user-images.githubusercontent.com/26686734/131530830-f0fbb99b-93ec-4769-9a4d-7ee756a28dd6.png" /> 
 <img align="left" alt="Intellij IDEA" width="70px" src="https://user-images.githubusercontent.com/26686734/131532872-a4c320c4-ef2f-451f-acf5-fbd6ab638e20.png"/>
 <img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/26686734/131533489-0d8b692a-f3fb-4c0b-a984-83b6660f4def.png"/>
+<img align="left" alt="JUnit" width="70px" src="https://junit.org/junit5/assets/img/junit5-logo.png"/>
+
 
 
