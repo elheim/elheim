@@ -22,4 +22,4 @@
 <img align="left" alt="CSS3" width="49px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
 
-<img align="left" alt="HTML5" width="70px" src="https://codepen.io/elheim/full/wvqPVNG"/>
+
