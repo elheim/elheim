@@ -2,11 +2,13 @@
 
 ## 🚀 About me:
 
-- ⭐️ I'm aspiring Java developer, self studying on my own. Looking for some projects to work on.
+- ⭐️ I'm aspiring Software Engineer, self studying on my own. Looking for some projects to work on.
 
 - 🔭 I’m currently working on my resume and looking for new opportunities
-- 🌱 I’m currently learning Algorithms and Data Strutctures, Maven, JUnit 
-- 🤔 I’m looking for help with Spring framework (Boot + Core + MVC)
+- 🌱 I’m currently learning Algorithms and Data Structures, JS
+- ✅ My stack: Java SE, C++, HTML/CSS
+- ⚙️ Frameworks: Spring (Core, MVC, Data, Boot)
+- 🗂 DB: MySQL, PostgreSQL
 - 📫 How to reach me: kamil.minnullin@gmail.com
 
 ## Languages and Tools: 
@@ -17,6 +19,6 @@
 <img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/26686734/131533489-0d8b692a-f3fb-4c0b-a984-83b6660f4def.png"/>
 <img align="left" alt="JUnit" width="70px" src="https://junit.org/junit5/assets/img/junit5-logo.png"/>
 <img align="left" alt="HTML5" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
-<img align="left" alt="CSS3" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
+<img align="left" alt="CSS3" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
 
